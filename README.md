@@ -19,7 +19,7 @@
 Hi! I'm Ivan. I'm pursuing an **Associate Degree in Computer Science**, I love coding and internet culture. I enjoy automating processes, documenting my learning journey, and right now I'm building my own personal/educational blog about my path in the programming world and my interests.
 
 ###  Tech Stack & Learning
-* * 🐍 **Primary focus:** Python God (Discovering libraries and all analytical uses of Python).
+*  🐍 **Primary focus:** Python God (Discovering libraries and all analytical uses of Python).
 *  **Beginner level:** C Language Worm (Not a fan).
 *  **Currently learning:** AWS, SQL, Excel, and Power BI, since I'm aiming to be a Data Analyst. Also Java, HTML, and CSS, because I need to design my own projects.
 
