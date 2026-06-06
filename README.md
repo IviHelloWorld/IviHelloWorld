@@ -3,7 +3,7 @@
 
 ---
 
-## 🇪🇸 Versión en Español
+## 🇪🇸 Versión
 
 ¡Hola! Soy Ivan. Estudio **Analista Programador**, me gusta programar y la cultura de internet. Me gusta automatizar procesos, documentar mi aprendizaje y actualmente estoy construyendo mi propio blog personal/educativo sobre mi travesía dentro del mundo de la programación y mis gustos.
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🇺🇸 English Version
+## 🇺🇸 Version
 
 Hi! I'm Ivan. I'm pursuing an **Associate Degree in Computer Science**, I love coding and internet culture. I enjoy automating processes, documenting my learning journey, and right now I'm building my own personal/educational blog about my path in the programming world and my interests.
 
